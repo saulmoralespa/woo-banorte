@@ -1,0 +1,219 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Banorte Woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-31 07:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: banorte-woocommerce.php:75
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:63
+msgid "Affiliation number assigned by Banorte to identify the client"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:20
+msgid "Banorte"
+msgstr ""
+
+#. Name of the plugin
+#: includes/class-wc-payment-banorte-bank-bb.php:50
+msgid "Banorte Woocommerce"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:241
+msgid "Banorte Woocommerce: All fields are required"
+msgstr ""
+
+#: includes/class-banorte-bank-bb-plugin.php:68
+msgid "Banorte Woocommerce: can only be called once"
+msgstr ""
+
+#: banorte-woocommerce.php:75
+msgid "Banorte Woocommerce: Requires currency to be MXN "
+msgstr ""
+
+#: banorte-woocommerce.php:50
+msgid ""
+"Banorte Woocommerce: Requires OpenSSL >= 1.0.1 to be installed on your server"
+msgstr ""
+
+#: banorte-woocommerce.php:44
+msgid "Banorte Woocommerce: Requires php version 5.6.0 or higher."
+msgstr ""
+
+#: includes/class-banorte-bank-bb-plugin.php:108
+msgid "Be sure to enter a valid card number"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:174
+msgid "Card number"
+msgstr ""
+
+#: banorte-woocommerce.php:75
+msgid "Click here to configure"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:24
+msgid "Continue to payment"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:160
+msgid "Data of card"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:54
+msgid "Description"
+msgstr ""
+
+#: includes/class-banorte-bank-bb-plugin.php:92
+msgid "Documentation"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:43
+msgid "Enable Banorte"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:94
+msgid "Enable to run tests"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:41
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:91
+msgid "Environment"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:177
+msgid "Headline"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://saulmoralespa.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Integración del banco de banorte con woocommerce"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:56
+msgid ""
+"It corresponds to the description that the user will see during the checkout"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:49
+msgid "It corresponds to the title that the user sees during the checkout"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:61
+msgid "MERCHANT_ID"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:75
+msgid "PASSWORD"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:77
+msgid "Password of the user with whom the transaction is executed"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:185
+msgid "Pay"
+msgstr ""
+
+#: includes/class-banorte-bank-bb-plugin.php:144
+#: includes/class-banorte-bank-bb-plugin.php:147
+msgid "Payment failed"
+msgstr ""
+
+#: includes/class-banorte-bank-bb-plugin.php:155
+msgid "Payment in the initiated state"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:57
+msgid "Payments with credit cards, VISA and Mastercard debit through banorte"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:22
+msgid "Payments with credit cards, VISA and Mastercard debit through banorte."
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:98
+msgid "Production mode"
+msgstr ""
+
+#: includes/class-banorte-bank-bb-plugin.php:110
+msgid "Redirecting to banorte.."
+msgstr ""
+
+#. Author of the plugin
+msgid "Saul Morales Pacheco"
+msgstr ""
+
+#: includes/class-banorte-bank-bb-plugin.php:91
+msgid "Settings"
+msgstr ""
+
+#: includes/class-banorte-bank-bb-plugin.php:137
+#: includes/class-banorte-bank-bb-plugin.php:152
+msgid "Successful payment"
+msgstr ""
+
+#: includes/class-banorte-bank-bb-plugin.php:139
+#, php-format
+msgid "Successful payment, reference:(%s)."
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:83
+msgid "TERMINAL_ID"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:99
+msgid "Test mode always authorizing"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:100
+msgid "Test mode always declining"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:101
+msgid "Test mode with random authorization"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:85
+msgid ""
+"The point of sale identifier or terminal on which the transaction is "
+"executed. The specified identifier must exist in the Payworks database, "
+"which will normally be done when registering an affiliation"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:47
+msgid "Title"
+msgstr ""
+
+#: includes/class-banorte-bank-bb-plugin.php:109
+msgid "Type of card not allowed, try with visa, mastercard"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:68
+msgid "USER"
+msgstr ""
+
+#: includes/class-wc-payment-banorte-bank-bb.php:70
+msgid ""
+"User generated by Banorte used by the client to execute each of the "
+"transactions"
+msgstr ""

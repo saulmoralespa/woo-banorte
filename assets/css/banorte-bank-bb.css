@@ -1,0 +1,27 @@
+#card-banorte-bank-bb {
+    z-index: 1;
+    position: relative;
+}
+#card-banorte-bank-bb .overlay {
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 2;
+    left: 0;
+    top: 0;
+    background-color: rgba(255,255,255, 0.9);
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+#card-banorte-bank-bb .overlay .overlay-text {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    font-size: 20px;
+}
+
+#card-banorte-bank-bb .msj-error-banorte{
+    display: none;
+}
