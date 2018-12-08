@@ -2,7 +2,7 @@
 /*
 Plugin Name: Banorte Woocommerce
 Description: Integración del banco de banorte con woocommerce
-Version: 1.0.0
+Version: 1.0.1
 Author: Saul Morales Pacheco
 Author URI: http://saulmoralespa.com
 License: GNU General Public License v3.0
@@ -15,7 +15,7 @@ if ( ! defined( 'ABSPATH' ) ) {
     exit; //Exit if accessed directly
 }
 if(!defined('BANORTE_BANK_BB_VERSION')){
-    define('BANORTE_BANK_BB_VERSION', '1.0.0');
+    define('BANORTE_BANK_BB_VERSION', '1.0.1');
 }
 add_action('plugins_loaded','banorte_bank_bb_init',0);
 

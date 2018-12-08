@@ -3,9 +3,9 @@ Contributors: Saul Morales Pacheco
 Donate link: https://saulmoralespa.com/
 Tags: commerce, banorte, banco, México, woocommerce, ecommerce, shop, tienda, store, cart, store, sales, sell
 Requires at least: 4.9.5
-Tested up to: 4.9.7
+Tested up to: 5.0
 Requires PHP: 5.6.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -49,6 +49,8 @@ In the payment medium settings, you can choose the different states of the test 
 
 = 1.0.0 =
 * Initial stable release
+= 1.0.1 =
+* compatibility with version 5.0 of wordpress
 
 == Additional Info ==
 **Contribute** [repository on github](https://github.com/saulmoralespa/woo-banorte)
